@@ -8,17 +8,11 @@
 # Security Blogs (Authored)
 - Securing GenAI on AWS -- A 6 Layer Castle Defence Model( [here](https://www.linkedin.com/posts/prashanthnagapaga_aws-genai-cloudsecurity-activity-7445948691485732864-L56V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAHUm1gBHxbCWxnUJZqj--YnNmbgwvguJ18) )
 
-# Other GenAI Blogs (Authored)
+# GenAI Blogs (Authored)
 - Leveraging Generative AI and AWS Bedrock for Product Managers ( [here](https://www.linkedin.com/posts/prashanthnagapaga_introduction-to-generative-ai-for-product-activity-7205597459710976001-Jt5u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACJiVwBaCx_JsigVIVp1HWRfoiu6cNwm3Y) )
 
 # My GitHub Stats
 ### 📌Prashanth Nagapaga's Commits:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pnagapaga&theme=chartreuse_dark)
-# Other GenAI Blogs (Authored)
 
-- Leveraging Generative AI and AWS Bedrock for Product Managers ( [here](https://www.linkedin.com/posts/prashanthnagapaga_introduction-to-generative-ai-for-product-activity-7205597459710976001-Jt5u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACJiVwBaCx_JsigVIVp1HWRfoiu6cNwm3Y) )
 
-# My GitHub Stats
-
-### 📌Prashanth Nagapaga's Commits:
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pnagapaga&theme=chartreuse_dark)
