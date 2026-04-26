@@ -13,7 +13,7 @@ My work sits at the intersection of:
 - Identity and access controls
 - Secure modernization of legacy systems
 
-I have led security and modernization initiatives across federal platforms, AWS environments, and startup products, including hyperlocal marketplace work at UX52 Tech / CenterShops.
+I have led security and modernization initiatives across federal platforms, AWS environments, and startup products
 
 ---
 
