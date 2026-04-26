@@ -3,8 +3,6 @@
 
 I design and operationalize secure cloud, application architectures across federal systems, startup platforms, and enterprise environments focused on GenAI security and governance.
 
----
-
 ## Featured Security Project
 
 ### Security Scanning Suite (Author)
@@ -13,10 +11,6 @@ I design and operationalize secure cloud, application architectures across feder
 - Sample executive security report: [View Report](https://github.com/pnagapaga/security-scanning-suite/blob/main/security-reports/AuthorizationServiceSecurityPostureExecSummary.pdf) 🎯
 
 The implementation approach was influenced by security patterns implemented while working on real-world systems, including startup and federal environments.
-
----
-
-
 
 ## Blogs
 
@@ -28,12 +22,10 @@ The implementation approach was influenced by security patterns implemented whil
 ### GenAI
 - Leveraging Generative AI and AWS Bedrock for Product Managers ( [here](https://www.linkedin.com/posts/prashanthnagapaga_introduction-to-generative-ai-for-product-activity-7205597459710976001-Jt5u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACJiVwBaCx_JsigVIVp1HWRfoiu6cNwm3Y) )
 
----
 ## My GitHub Stats
 ### 📌Prashanth Nagapaga's Commits:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pnagapaga&theme=chartreuse_dark)
 
----
 ## Current Focus Areas
 
 - Cloud security architecture patterns
@@ -41,8 +33,6 @@ The implementation approach was influenced by security patterns implemented whil
 - GenAI security and governance
 - API security testing
 - Secure modernization of enterprise platforms
-
----
 
 ## Practical Security Focus Areas
 
@@ -58,8 +48,6 @@ OWASP Top 10, API abuse protection, authentication/authorization design, validat
 ### Cyber Risk Governance
 NIST RMF, security authorization, control implementation, continuous monitoring, audit readiness, and risk communication.
 
----
-
 ## Connect
 
--- LinkedIn: [Prashanth Kumar Nagapaga](https://www.linkedin.com/in/prashanthnagapaga/)
+- LinkedIn: [Prashanth Kumar Nagapaga](https://www.linkedin.com/in/prashanthnagapaga/)
