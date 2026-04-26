@@ -61,12 +61,10 @@ NIST RMF, security authorization, control implementation, continuous monitoring,
 ## Blogs and Articles
 
 ### Security
-- Securing GenAI on AWS — A 6-Layer Castle Defense Model  
-  https://www.linkedin.com/posts/prashanthnagapaga_aws-genai-cloudsecurity-activity-7445948691485732864-L56V
+- Securing GenAI on AWS -- A 6 Layer Castle Defence Model( [here](https://www.linkedin.com/posts/prashanthnagapaga_aws-genai-cloudsecurity-activity-7445948691485732864-L56V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAHUm1gBHxbCWxnUJZqj--YnNmbgwvguJ18) )
 
 ### GenAI
-- Leveraging Generative AI and AWS Bedrock for Product Managers  
-  https://www.linkedin.com/posts/prashanthnagapaga_introduction-to-generative-ai-for-product-activity-7205597459710976001-Jt5u
+- Leveraging Generative AI and AWS Bedrock for Product Managers ( [here](https://www.linkedin.com/posts/prashanthnagapaga_introduction-to-generative-ai-for-product-activity-7205597459710976001-Jt5u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACJiVwBaCx_JsigVIVp1HWRfoiu6cNwm3Y) )
 
 ---
 
