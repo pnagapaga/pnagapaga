@@ -1,19 +1,22 @@
-
 <h1 align="center">Hi 👋, I'm Prashanth Kumar Nagapaga </h1>
 <h3 align="center">Enterprise Cloud Security Architect | Cyber Risk Governance Leader | Chicago, IL 🟢 </h3>
 
-I help organizations design and operationalize secure cloud, application, and governance architectures across federal, startup, and enterprise environments.
+I design and operationalize secure cloud, application, and governance architectures across federal systems, startup platforms, and enterprise environments.
 
-My work sits at the intersection of:
+My work focuses on one core principle:
+
+Security is effective only when it is embedded into how systems are built and operated.
+
+I operate at the intersection of:
 
 - Cloud security architecture
 - Cyber risk governance
-- DevSecOps automation
+- DevSecOps enablement
 - Application and API security
-- Identity and access controls
+- Identity and access control
 - Secure modernization of legacy systems
 
-I have led security and modernization initiatives across federal platforms, AWS environments, and startup products
+I have led end-to-end security and modernization initiatives across federal platforms and startup environments, including hands-on work in building and securing hyperlocal marketplace systems.
 
 ---
 
@@ -21,35 +24,34 @@ I have led security and modernization initiatives across federal platforms, AWS 
 
 ### Security Scanning Suite (Author)
 
-- Source code and step-by-step Instructions to scan your repo for 'Critical' vulnerabilities is ( [here](https://github.com/pnagapaga/security-scanning-suite) )
-- Download or view a sample security scanned report from [here](https://github.com/pnagapaga/security-scanning-suite/blob/main/security-reports/AuthorizationServiceSecurityPostureExecSummary.pdf) 🎯
+- Source code and setup guide: [Security Scanning Suite](https://github.com/pnagapaga/security-scanning-suite)
+- Sample executive security report: [View Report](https://github.com/pnagapaga/security-scanning-suite/blob/main/security-reports/AuthorizationServiceSecurityPostureExecSummary.pdf) 🎯
 
-A reference DevSecOps project demonstrating how SAST scanning can be embedded into a CI/CD workflow for a Spring Boot application.
+A reference DevSecOps implementation demonstrating how SAST can be embedded into a CI/CD workflow for a Spring Boot application.
 
-This project reflects practical security patterns I have used in real-world environments, including:
+This project reflects practical patterns applied in real environments, including:
 
-- Static Application Security Testing
-- CI/CD security checks
-- Vulnerability reporting
-- Secure development workflow design
-- Developer-friendly security feedback loops
+- Continuous vulnerability detection in CI/CD
+- Developer-aligned security feedback loops
+- Automated reporting for decision-making
+- Integration of security into delivery workflows
 
-The goal is not just to run a tool.
+The focus is not the tool.
 
-The goal is to show how security controls can become part of the delivery process instead of being treated as a late-stage review.
+The focus is enabling security as part of the engineering process, not as a late-stage control.
 
 ---
 
 ## Practical Security Focus Areas
 
 ### Cloud Security Architecture
-AWS landing zones, account separation, IAM governance, KMS encryption, monitoring, logging, and secure workload design.
+AWS landing zones, multi-account governance, IAM design, encryption (KMS), monitoring, and secure workload patterns.
 
 ### DevSecOps
-GitHub Actions, SAST, DAST, SCA, dependency scanning, secrets management, and pipeline-based security controls.
+GitHub Actions, SAST, DAST, SCA, dependency governance, secrets management, and pipeline-integrated controls.
 
 ### Application and API Security
-OWASP Top 10, API abuse prevention, authentication and authorization controls, input validation, and rate limiting.
+OWASP Top 10, API abuse protection, authentication/authorization design, validation, and rate limiting.
 
 ### Cyber Risk Governance
 NIST RMF, security authorization, control implementation, continuous monitoring, audit readiness, and risk communication.
@@ -58,29 +60,26 @@ NIST RMF, security authorization, control implementation, continuous monitoring,
 
 ## Blogs and Articles
 
-### Security Blogs (Authored)
-- Securing GenAI on AWS -- A 6 Layer Castle Defence Model( [here](https://www.linkedin.com/posts/prashanthnagapaga_aws-genai-cloudsecurity-activity-7445948691485732864-L56V?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAHUm1gBHxbCWxnUJZqj--YnNmbgwvguJ18) )
+### Security
+- Securing GenAI on AWS — A 6-Layer Castle Defense Model  
+  https://www.linkedin.com/posts/prashanthnagapaga_aws-genai-cloudsecurity-activity-7445948691485732864-L56V
 
-### GenAI Blogs (Authored)
-- Leveraging Generative AI and AWS Bedrock for Product Managers ( [here](https://www.linkedin.com/posts/prashanthnagapaga_introduction-to-generative-ai-for-product-activity-7205597459710976001-Jt5u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACJiVwBaCx_JsigVIVp1HWRfoiu6cNwm3Y) )
-
-## My GitHub Stats
-### 📌Prashanth Nagapaga's Commits:
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pnagapaga&theme=chartreuse_dark)
+### GenAI
+- Leveraging Generative AI and AWS Bedrock for Product Managers  
+  https://www.linkedin.com/posts/prashanthnagapaga_introduction-to-generative-ai-for-product-activity-7205597459710976001-Jt5u
 
 ---
 
-## Current Learning and Build Areas
+## Current Focus Areas
 
 - Cloud security architecture patterns
 - DevSecOps reference implementations
 - GenAI security and governance
 - API security testing
-- Secure modernization of enterprise systems
+- Secure modernization of enterprise platforms
 
 ---
 
 ## Connect
 
-- LinkedIn: [Prashanth Kumar Nagapaga](https://www.linkedin.com/in/prashanthnagapaga/)
-
+- LinkedIn: https://www.linkedin.com/in/prashanthnagapaga/
