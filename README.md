@@ -82,4 +82,4 @@ NIST RMF, security authorization, control implementation, continuous monitoring,
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/prashanthnagapaga/
+-- LinkedIn: [Prashanth Kumar Nagapaga](https://www.linkedin.com/in/prashanthnagapaga/)
