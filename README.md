@@ -40,6 +40,8 @@ The focus is not the tool.
 
 The focus is enabling security as part of the engineering process, not as a late-stage control.
 
+This approach was influenced by security patterns implemented while working on real-world systems, including startup and federal environments.
+
 ---
 
 ## Practical Security Focus Areas
