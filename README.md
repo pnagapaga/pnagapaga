@@ -21,6 +21,9 @@ I have led security and modernization initiatives across federal platforms, AWS 
 
 ### Security Scanning Suite (Author)
 
+- Source code and step-by-step Instructions to scan your repo for 'Critical' vulnerabilities is ( [here](https://github.com/pnagapaga/security-scanning-suite) )
+- Download or view a sample security scanned report from [here](https://github.com/pnagapaga/security-scanning-suite/blob/main/security-reports/AuthorizationServiceSecurityPostureExecSummary.pdf) 🎯
+
 A reference DevSecOps project demonstrating how SAST scanning can be embedded into a CI/CD workflow for a Spring Boot application.
 
 This project reflects practical security patterns I have used in real-world environments, including:
@@ -34,9 +37,6 @@ This project reflects practical security patterns I have used in real-world envi
 The goal is not just to run a tool.
 
 The goal is to show how security controls can become part of the delivery process instead of being treated as a late-stage review.
-
-- Source code and step-by-step Instructions to scan your repo for 'Critical' vulnerabilities is ( [here](https://github.com/pnagapaga/security-scanning-suite) )
-- Download or view a sample security scanned report from [here](https://github.com/pnagapaga/security-scanning-suite/blob/main/security-reports/AuthorizationServiceSecurityPostureExecSummary.pdf) 🎯
 
 ---
 
