@@ -69,6 +69,11 @@ NIST RMF, security authorization, control implementation, continuous monitoring,
 - Leveraging Generative AI and AWS Bedrock for Product Managers ( [here](https://www.linkedin.com/posts/prashanthnagapaga_introduction-to-generative-ai-for-product-activity-7205597459710976001-Jt5u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAACJiVwBaCx_JsigVIVp1HWRfoiu6cNwm3Y) )
 
 ---
+## My GitHub Stats
+### 📌Prashanth Nagapaga's Commits:
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pnagapaga&theme=chartreuse_dark)
+
+---
 
 ## Current Focus Areas
 
