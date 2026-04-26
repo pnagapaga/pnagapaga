@@ -56,19 +56,6 @@ NIST RMF, security authorization, control implementation, continuous monitoring,
 
 ---
 
-## Startup Security and Product Experience
-
-At UX52 Tech, I contributed to CenterShops, a hyperlocal multi-vendor marketplace supporting food, grocery, vegetable, and parcel delivery.
-
-The work involved product execution, cloud architecture, API security, DevSecOps practices, payment flow considerations, and operational learning from a Tier-2 market context.
-
-One key lesson from that experience:
-
-> The product is not just the app.  
-> The product is the trust system behind the app.
-
----
-
 ## Blogs and Articles
 
 ### Security Blogs (Authored)
@@ -95,5 +82,5 @@ One key lesson from that experience:
 
 ## Connect
 
-- LinkedIn: [Prashanth Kumar Nagapaga](YOUR_LINKEDIN_LINK)
-- Portfolio: [Your Portfolio](YOUR_PORTFOLIO_LINK)
+- LinkedIn: [Prashanth Kumar Nagapaga](https://www.linkedin.com/in/prashanthnagapaga/)
+
